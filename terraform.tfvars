@@ -1,6 +1,6 @@
 location            = "southeastasia"
-resource_group_name = "dynmicblockrg"
-name                = "daveynsg"
+resource_group_name = "hashitesttf"
+name                = "daveynsgtf"
 tags = {
   "dev" = "testing"
 }
